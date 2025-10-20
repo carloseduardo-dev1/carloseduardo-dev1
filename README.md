@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png.jpeg" alt="Banner do perfil" width="1000" height="350" />
+</p>
 
 <!--
 **carloseduardo-dev1/carloseduardo-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
